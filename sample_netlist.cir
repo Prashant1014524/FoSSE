@@ -1,0 +1,4 @@
+M1 OUT IN GND nmos_model L=1u
+R1 OUT IN
+C1 OUT GND 1u
+XOP1 IN OUT opamp

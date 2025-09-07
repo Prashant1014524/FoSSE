@@ -1,0 +1,7 @@
+Error: unknown subckt: opamp
+Warning: floating node detected at net N002
+Error: missing parameter VGS for device M1
+Error: device not found: NMOS
+Fatal: singular matrix: check node 3
+Warning: Open circuit at net N007
+Error: illegal parameter in .model statement
