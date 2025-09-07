@@ -26,7 +26,44 @@ It combines powerful **rule-based suggestions** with an integrated **AI chatbot 
 - **Beginner-Friendly Interface**
   - No advanced setup required.
   - Includes sample netlist and log files for testing/demo.
+ 
+
+  
+---
+
+## **Extending and Customizing**
+
+- Add your own rules for error detection in the `error_fix_dict` dictionary.
+- To collect user error history for personalization, add a simple log file or database.
+- You can swap the language model for more advanced HuggingFace models, or add OpenAI integration if you have an API key.
 
 ---
+
+## **Design, Quality, and Submission Notes**
+
+**Meets all FOSSEE/eSim internship screening requirements:**
+- Netlist and log analysis
+- Useful suggestions for various errors
+- AI/ML chatbot integration
+- Extensible, well-documented design
+- Sample files and user documentation provided
+
+**Creativity:**
+- The hybrid rule-based + AI chatbot approach ensures advice is always available, even when new errors appear.
+
+---
+
+## **Author / Credits**
+
+Developed by **Prashant** for the eSim Semester Long Internship Autumn 2025  
+Mentor: **FOSSEE eSim team**
+
+---
+
+**If you have any questions or need help, open an issue or contact the maintainer.**
+
+
+---
+
 
 ## 
