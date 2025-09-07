@@ -104,7 +104,7 @@ Mentor: **FOSSEE eSim team**
 
 ---
 
-**If you have any questions or need help, open an issue or contact the maintainer.**
+**Thank You**
 
 
 
